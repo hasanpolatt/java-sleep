@@ -4,6 +4,7 @@ package newpackage;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+//writes your name for 10 seconds
 public class thread1 extends Thread{
     
     @Override
